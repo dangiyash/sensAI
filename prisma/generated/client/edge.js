@@ -1,4 +1,3 @@
-
 Object.defineProperty(exports, "__esModule", { value: true });
 
 const {
@@ -170,7 +169,7 @@ const config = {
       "value": "prisma-client-js"
     },
     "output": {
-      "value": "C:\\Users\\Lenovo\\Desktop\\padhAI\\prisma\\generated\\client",
+      "value": "C:\\Users\\Lenovo\\Desktop\\SensAI\\prisma\\generated\\client",
       "fromEnvVar": null
     },
     "config": {
@@ -184,7 +183,7 @@ const config = {
       }
     ],
     "previewFeatures": [],
-    "sourceFilePath": "C:\\Users\\Lenovo\\Desktop\\padhAI\\prisma\\schema.prisma",
+    "sourceFilePath": "C:\\Users\\Lenovo\\Desktop\\SensAI\\prisma\\schema.prisma",
     "isCustomOutput": true
   },
   "relativeEnvPaths": {

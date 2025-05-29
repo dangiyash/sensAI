@@ -1,4 +1,4 @@
-# PadhAI - Personalized Aptitude Development Helper AI
+# SensAI - Personalized Aptitude Development Helper AI
 
 An AI-Powered Self-Learning Assessment Platform built to revolutionize how users learn, assess themselves, and grow in the digital era.
 
@@ -6,10 +6,10 @@ An AI-Powered Self-Learning Assessment Platform built to revolutionize how users
 
 ## 🚀 About The Project
 
-In today’s world of digital overload and shrinking attention spans, traditional education methods fail to keep learners engaged.  
-PadhAI solves this by delivering personalized learning roadmaps, real-time skill gap analysis, and an AI mentor chatbot — all gamified to boost motivation.
+In today's world of digital overload and shrinking attention spans, traditional education methods fail to keep learners engaged.  
+SensAI solves this by delivering personalized learning roadmaps, real-time skill gap analysis, and an AI mentor chatbot — all gamified to boost motivation.
 
-This project uses *Next.js, **TypeScript, **TailwindCSS, **Prisma, and integrates **Gemini API* for intelligent learning experiences.
+This project uses _Next.js, **TypeScript, **TailwindCSS, **Prisma, and integrates **Gemini API_ for intelligent learning experiences.
 
 ---
 
@@ -24,14 +24,15 @@ This project uses *Next.js, **TypeScript, **TailwindCSS, **Prisma, and integrate
 
 ## 🎯 Solution Overview
 
-*PadhAI* offers:
+_SensAI_ offers:
+
 - Dynamic, AI-generated skill gap assessments and personalized learning roadmaps.
-- AI mentor chatbot (*GuruAI*) that resolves queries 24x7 and recommends trusted resources.
+- AI mentor chatbot (_GuruAI_) that resolves queries 24x7 and recommends trusted resources.
 - Gamified learning: earn XP, badges, and milestone rewards.
 - Cross-device access (web, mobile, tablet) with real-time progress syncing.
 - Scientifically proven learning techniques (Pomodoro, Active Recall) built into the flow.
 
-PadhAI transforms boring learning into a quest for self-mastery.
+SensAI transforms boring learning into a quest for self-mastery.
 
 ---
 

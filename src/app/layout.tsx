@@ -1,4 +1,3 @@
-
 import { IBM_Plex_Mono } from "next/font/google";
 import { usePathname } from "next/navigation";
 import { useSession, signOut } from "next-auth/react";
@@ -16,7 +15,7 @@ const ibmPlexMono = IBM_Plex_Mono({
 });
 
 export const metadata = {
-  title: "PadhAI - Personalized Learning Platform",
+  title: "SensAI - Personalized Learning Platform",
   description: "Learn programming languages with AI-powered personalized learning paths",
 };
 
